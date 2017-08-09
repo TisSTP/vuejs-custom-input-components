@@ -90,5 +90,9 @@ export default {
 - `this.$refs.{refName}.value`
 - `this.$emit('event', value)`
 
+- [Adding v-model Support to Custom Vue.js Components](https://alligator.io/vuejs/add-v-model-support/)
+- [Custom Input Components](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/25)
+
+
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
